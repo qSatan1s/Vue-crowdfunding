@@ -1,4 +1,4 @@
-# qq
+# Vue-crowdfunding
 
 ## Project setup
 
